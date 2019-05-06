@@ -1,0 +1,103 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding" addBOMForNewFiles="with NO BOM" />
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/Downloads/ELK/projectElk" value="PREVIEW" />
+            <entry key="$USER_HOME$/MaquinariasGalicia/galicia-gateway" value="PREVIEW" />
+            <entry key="$USER_HOME$/MaquinariasGalicia/maquinarias/galicia-gateway" value="PREVIEW" />
+            <entry key="$USER_HOME$/Projects/GALGIT/galicia-svn-migration/gal-api" value="PREVIEW" />
+            <entry key="$USER_HOME$/Projects/webflux-rxjava2-jdbc-example" value="PREVIEW" />
+            <entry key="$USER_HOME$/ar-seed/Template" value="PREVIEW" />
+            <entry key="$USER_HOME$/arsa/ar-payments/fraud-service" value="PREVIEW" />
+            <entry key="$USER_HOME$/arsa/ar-seed/Template" value="PREVIEW" />
+            <entry key="$USER_HOME$/galicia-maquinarias/galicia-gateway" value="PREVIEW" />
+            <entry key="$USER_HOME$/galicia-workspace/EPIC_GBSEG-1523/gal-api" value="PREVIEW" />
+            <entry key="$USER_HOME$/galicia-workspace/EPIC_GBSEG-1523/gal-channel-module-commons" value="PREVIEW" />
+            <entry key="$USER_HOME$/galicia-workspace/EPIC_GBSEG-1526/gal-api" value="PREVIEW" />
+            <entry key="$USER_HOME$/galicia-workspace/EPIC_GBSEG-1628/gal-api" value="PREVIEW" />
+            <entry key="$USER_HOME$/galicia-workspace/EPIC_OBGAL-2274/gal-api" value="PREVIEW" />
+            <entry key="$USER_HOME$/galicia-workspace/EPIC_OBGAL-2290/gal-api" value="PREVIEW" />
+            <entry key="$USER_HOME$/galicia-workspace/EPIC_OBGAL-2353/gal-api" value="PREVIEW" />
+            <entry key="$USER_HOME$/galicia-workspace/EPIC_OBGAL-2353/gal-channel-module-commons" value="PREVIEW" />
+            <entry key="$USER_HOME$/galicia-workspace/GALLEA-439/gal-dao" value="PREVIEW" />
+            <entry key="$USER_HOME$/galicia-workspace/GALLEA-439/gal-ob" value="PREVIEW" />
+            <entry key="$USER_HOME$/galicia-workspace/GALLEA-439/gal-sp" value="PREVIEW" />
+            <entry key="$USER_HOME$/galicia-workspace/GBSEG-1627" value="PREVIEW" />
+            <entry key="$USER_HOME$/galicia-workspace/GBSEG-1627/gal-api" value="PREVIEW" />
+            <entry key="$USER_HOME$/galicia-workspace/GBSEG-1627/gal-channel-module-commons" value="PREVIEW" />
+            <entry key="$USER_HOME$/galicia-workspace/GBSEG-1648/gal-sp" value="PREVIEW" />
+            <entry key="$USER_HOME$/galicia-workspace/GBSEG-1655/gal-api" value="PREVIEW" />
+            <entry key="$USER_HOME$/galicia-workspace/GalDevelopment/isb-core-dao" value="PREVIEW" />
+            <entry key="$USER_HOME$/galicia-workspace/GalGit/gal-dao" value="PREVIEW" />
+            <entry key="$USER_HOME$/galicia-workspace/GalGit/gal-isb" value="PREVIEW" />
+            <entry key="$USER_HOME$/galicia-workspace/PREPROD/gal-channel-module-commons" value="PREVIEW" />
+            <entry key="$USER_HOME$/galicia-workspace/PROD/gal-ep" value="PREVIEW" />
+            <entry key="$USER_HOME$/galicia-workspace/PROD/gal-isb" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/gal-module-quotation" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="settings.editor.selected.configurable" value="com.zeroturnaround.javarebel.idea.plugin.settings.startup.StartupConfigurable" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="Applet">
+          <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="Application" factoryName="Application">
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="TestNG">
+          <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+          <properties />
+          <listeners />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+          <module name="" />
+          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+          <option name="PROGRAM_PARAMETERS" />
+          <predefined_log_file enabled="true" id="idea.log" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.7</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

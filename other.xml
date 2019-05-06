@@ -1,0 +1,22 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node">
+      <version-cache version="10.4.1" last-modified="1528851926000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v0.12.18/bin/node" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="http://repo.sysone.com/galicia/branches/GALRepo/GALDevelopment" />
+        <option value="http://repo.sysone.com/galicia" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="http://repo.sysone.com/galicia/branches/GALRepo/GALDevelopment" />
+        <option value="http://repo.sysone.com/galicia" />
+      </list>
+    </option>
+  </component>
+</application>
